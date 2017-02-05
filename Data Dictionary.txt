@@ -1,0 +1,10 @@
+Columns:
+employee_id : id of the employee. Unique by employee per company
+company_id : company id.
+dept : employee dept
+seniority : number of yrs of work experience when hired
+salary: avg yearly salary of the employee during her tenure within the company
+join_date: when the employee joined the company, it can only be between 2011/01/24
+and 2015/12/13
+quit_date: when the employee left her job (if she is still employed as of 2015/12/13, this
+field is NA)
